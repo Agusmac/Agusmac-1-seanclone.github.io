@@ -74,7 +74,7 @@ h3{
 
 .cloud1{
   position:absolute;
-  left:1200px;
+  left:65%;
   top:70px;
   max-width: 200px;
   height: auto;
@@ -84,7 +84,7 @@ h3{
 .cloud2{
   position:absolute;
   top:350px;
-  left:520px;
+  left:29%;
   max-width: 200px;
   height: auto;
 }
